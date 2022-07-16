@@ -1,0 +1,32 @@
+=================================
+
+MOVIMENTOS:	200
+
+NORTE		0
+SUL		    1
+LESTE		2
+OESTE		3
+ALEATORIO	4
+PARADO		5
+CURVAR		6
+
+=================================
+
+RECOMPENSA OU CASTIGO
+
+PEGAR LATA: 	10 PTS
+CURVAR ATOA: 	-1 PTS
+TESTA NO MURO: 	-5 PTS
+
+=================================
+
+MATRIZ 12 X 12
+
+VAZIO:	0
+LATA: 	1
+MURO: 	2
+
+=================================
+
+100 individuos
+

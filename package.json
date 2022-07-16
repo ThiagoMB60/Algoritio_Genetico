@@ -1,0 +1,16 @@
+{
+  "name": "algoritio-genetico-tia",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chart.js": "^3.8.0",
+    "nodemon": "^2.0.16"
+  },
+  "type": "module"
+}
